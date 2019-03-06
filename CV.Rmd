@@ -1,0 +1,167 @@
+---
+title: "Luiz Droubi's resume"
+author: Luiz Droubi
+date: "`r format(Sys.Date(), '%Y/%m/%d')`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+---
+
+Aside
+================================================================================
+
+
+![Luiz F. P. Droubi](https://avatars0.githubusercontent.com/u/13748079?s=400&u=cda0c28f70c8704434c101e79164bd22c5d5465a&v=4){width=80%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> lfpdroubi@gmail.com
+- <i class="fa fa-github"></i> [github.com/lfpdroubi](https://github.com/lfpdroubi)
+- <i class="ai ai-orcid-square ai-3x"></i> [orcid.org/0000-0002-5971-7220](https://orcid.org/0000-0002-5971-7220)
+- <i class="ai ai-lattes"></i> [lattes.cnpq.br/5150615628956067](http://lattes.cnpq.br/5150615628956067)
+- <i class="fa fa-whatsapp"></i> +55 48 99673-0389
+- For more information, please contact me via email or whatsapp.
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in statistical analysis, statistical learning models, and optimization methods.
+
+- Full experience with next generation sequencing data analysis.
+
+- Highly skilled in R, Bash, Perl, Python, LaTeX
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r  format(Sys.Date(), '%Y/%m/%d')`.
+
+
+
+Main
+================================================================================
+
+Luiz F. P. Droubi {#title}
+--------------------------------------------------------------------------------
+
+### Currently a Masters' degree student at [UFSC](http://ppgtg.ufsc.br/)
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### [Federal University of Santa Catarina](https://ufsc.br/)
+
+MSc in Transport Engineering and Territorial Management.
+
+Florianópolis, Santa Catarina, Brazil
+
+Current
+
+### [PostGraduate Institute](https://www.ipog.edu.br/)
+
+Postgraduate in Audits, Real Estate Appraisals and Engineering Expert Reports.
+
+Florianópolis, Santa Catarina, Brazil
+
+2016
+
+### Petrobras' University
+
+Piping Engineering
+
+Rio, Rio de Janeiro, Brazil
+
+2008
+
+
+### [University of São Paulo](http://www.usp.br/)
+
+Civil Engineering
+
+São Carlos, São Paulo, Brazil
+
+2003
+
+Research Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Graduate Research Assistant
+
+[PPGTG](http://ppgtg.ufsc.br/), UFSC.
+
+Florianópolis, SC, Brazil
+
+2018 - 2019
+
+::: concise
+- [CEF Award](http://ppgtg.ufsc.br/2018/12/18/pesquisadores-do-ppgtg-recebem-premio-por-trabalho-na-area-de-engenharia-de-avaliacoes/) for best paper in [VIII SOBREA](https://www.sobrea.org.br/conferencias/simposio-viii/).
+- [COBRAC 2018](http://cobrac2018.ufsc.br/) [paper 1](http://ocs.cobrac.ufsc.br/index.php/cobrac/cobrac2018/paper/view/537).
+- [COBRAC 2018](http://cobrac2018.ufsc.br/) [paper 2](http://ocs.cobrac.ufsc.br/index.php/cobrac/cobrac2018/paper/view/545).
+:::
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Real Estate Appraisals
+
+Secretariat of the Patrimony of the Union
+
+Florianópolis, SC, Brazil
+
+2018
+
+::: concise
+- Creating Rmarkdown templates
+- Creating reports
+:::
+
+### Structural Engineer
+
+[INFRAERO](http://www.infraero.gov.br/)
+
+Florianópolis, SC, Brazil
+
+2011 - 2017
+
+::: concise
+- Foundations, Concrete and Steel Structures Designs
+- Inspection of Engineering Works
+:::
+
+Other courses {data-icon=book}
+--------------------------------------------------------------------------------
+
+### Programming
+
+[Datacamp](https://www.datacamp.com)
+
+Online
+
+2017
+
+::: concise
+- [Data Scientist with R](https://www.datacamp.com/statement-of-accomplishment/track/4359ae1001e9b5b8109caa813060a775869530ca)
+- [Data Analyst with R](https://www.datacamp.com/statement-of-accomplishment/track/8f1e674323a0520a0c850ee4a3fd2ee587d8b42f)
+- [Quantitative Analyst with R](https://www.datacamp.com/statement-of-accomplishment/track/8dec75b37bf1e8d87c41c66a4854d444baf858b5)
+- [R programmer](https://www.datacamp.com/statement-of-accomplishment/track/ff0ef9ea3f322ee26379a0d4cbbddfa511a8ed63)
+:::
+
+### Spatial Statistics
+
+[Datacamp](https://www.datacamp.com)
+
+Online
+
+2017
+
+:::concise
+- [Working with Geospatial Data in R](https://www.datacamp.com/statement-of-accomplishment/course/696dc94690ede909af293a023fd0f3c6831c046e)
+- [Spatial Statistics with R](https://www.datacamp.com/statement-of-accomplishment/course/a72eab8086de2b11a24c8ef42e70bfcf85c4295c)
+:::
